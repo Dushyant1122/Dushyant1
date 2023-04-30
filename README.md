@@ -1,4 +1,5 @@
-<img src"https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="500px" alt="image" >
+<!-- <img src"https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="500px" alt="image" > -->
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)">
 <h1 align="center">Hi 👋, My self Dushyant Jangid</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
