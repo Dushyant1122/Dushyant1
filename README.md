@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-two-iota-98.vercel.app/](https://portfolio-two-iota-98.vercel.app/)
 
-- 📫 How to reach me **dushyantjangud1122@gmail.com**
+- 📫 How to reach me **dushyantjangid1122@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
